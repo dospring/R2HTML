@@ -21,7 +21,7 @@
 
 \arguments{
   \item{x}{ a data.frame}
-  \item{file}{ target HTLM output}
+  \item{file}{ target HTML output}
   \item{Border}{ the size of the border around the table. Could be 0,1,... but also NULL}
   \item{innerBorder}{ the size of the border inside the table - see details}
   \item{classfirstline}{ CSS class for the first line (header - variable names) }
